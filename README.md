@@ -38,3 +38,6 @@ This repository implements Bayesian inference for a probit regression model. It 
 
 Feel free to submit issues for bug reports or feature requests. Pull requests for improvements and extensions are welcome!
 
+![posterior_distributions](https://github.com/andrewrobson3000/BayesianProbit_MH_Gibbs_Inference/assets/87878168/245c3147-5ef8-4146-aca8-480f87ddf60d)
+
+
